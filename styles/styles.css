@@ -7,6 +7,15 @@
     border: 2px solid black
 }
 
+h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+
+p{
+    font-size: 25px;
+}
+
 img{
     width: 360px;
 }
@@ -24,4 +33,23 @@ img{
 
 #button{
     padding: 10px 60px;
+    padding: 15px;
+    background-color: rgb(131, 131, 205);
+    border: none;
+    border-radius: 20px;
+}
+
+.btnstyle{
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(131, 131, 205);
+    border: none;
+    border-radius: 20px;
+}
+
+.divbtn{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
 }
