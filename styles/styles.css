@@ -38,7 +38,9 @@ img{
     border: none;
     border-radius: 20px;
 }
-
+i{
+    color: rgb(106, 19, 153);
+}
 .btnstyle{
     justify-content: center;
     align-items: center;
