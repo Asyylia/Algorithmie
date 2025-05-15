@@ -1,0 +1,27 @@
+#list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border: 2px solid black
+}
+
+img{
+    width: 360px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    padding: 40px;
+    
+}
+
+#button{
+    padding: 10px 60px;
+}
